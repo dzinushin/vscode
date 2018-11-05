@@ -1,0 +1,10 @@
+{
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Monokai",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.renderWhitespace": "all",
+    // "terminal.external.osxExec": "iTerm.app",
+    // "terminal.integrated.shell.osx": "zsh",
+}
